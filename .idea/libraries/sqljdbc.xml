@@ -4,6 +4,7 @@
       <root url="jar://$PROJECT_DIR$/lib/sqljdbc4-2.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/sqljdbc4.jar!/" />
       <root url="jar://$PROJECT_DIR$/lib/sqljdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.24-bin.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
